@@ -1,0 +1,233 @@
+[
+  {
+    "slug": "purusha",
+    "name": "Purusha",
+    "epithet": "the cosmic body · RV 10.90",
+    "emergence": "spiritual",
+    "layer": "doctrine",
+    "sanskrit": "पुरुष",
+    "figure": "",
+    "moniker": "⟦Purusha:JTI:49f67c⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "varna",
+    "name": "Varna",
+    "epithet": "the four-fold ritual order",
+    "emergence": "ethereal",
+    "layer": "doctrine",
+    "sanskrit": "वर्ण",
+    "figure": "",
+    "moniker": "⟦Varna:JTI:5b5359⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "brahmin",
+    "name": "Brahmin",
+    "epithet": "the mouth · priests & scholars",
+    "emergence": "spiritual",
+    "layer": "doctrine",
+    "sanskrit": "ब्राह्मण",
+    "figure": "",
+    "moniker": "⟦Brahmin:JTI:081d5f⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "kshatriya",
+    "name": "Kshatriya",
+    "epithet": "the arms · warriors & rulers",
+    "emergence": "electrical",
+    "layer": "doctrine",
+    "sanskrit": "क्षत्रिय",
+    "figure": "",
+    "moniker": "⟦Kshatriya:JTI:bdd1e7⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "vaishya",
+    "name": "Vaishya",
+    "epithet": "the thighs · merchants & farmers",
+    "emergence": "natural",
+    "layer": "doctrine",
+    "sanskrit": "वैश्य",
+    "figure": "",
+    "moniker": "⟦Vaishya:JTI:44dbd4⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "shudra",
+    "name": "Shudra",
+    "epithet": "the feet · laborers & servants",
+    "emergence": "natural",
+    "layer": "doctrine",
+    "sanskrit": "शूद्र",
+    "figure": "",
+    "moniker": "⟦Shudra:JTI:db75dc⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "dharma",
+    "name": "Dharma",
+    "epithet": "righteous duty · one's proper role",
+    "emergence": "spiritual",
+    "layer": "doctrine",
+    "sanskrit": "धर्म",
+    "figure": "",
+    "moniker": "⟦Dharma:JTI:9e00a8⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "karma",
+    "name": "Karma & Samsara",
+    "epithet": "rebirth · the moral ledger",
+    "emergence": "spiritual",
+    "layer": "doctrine",
+    "sanskrit": "कर्म · संसार",
+    "figure": "",
+    "moniker": "⟦Karma & Samsara:JTI:fcbbca⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "manusmriti",
+    "name": "The Manusmriti",
+    "epithet": "the law-book · the ideal",
+    "emergence": "ethereal",
+    "layer": "doctrine",
+    "sanskrit": "मनुस्मृति",
+    "figure": "",
+    "moniker": "⟦The Manusmriti:JTI:82b838⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "purity",
+    "name": "Purity & Pollution",
+    "epithet": "the ritual logic · Dumont",
+    "emergence": "ethereal",
+    "layer": "doctrine",
+    "sanskrit": "शुद्धि",
+    "figure": "",
+    "moniker": "⟦Purity & Pollution:JTI:1c2848⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "jati",
+    "name": "Jati",
+    "epithet": "the thousands of birth-groups",
+    "emergence": "natural",
+    "layer": "reality",
+    "sanskrit": "जाति",
+    "figure": "",
+    "moniker": "⟦Jati:JTI:49588b⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "dalit",
+    "name": "The Dalits",
+    "epithet": "outside the body · 'untouchables'",
+    "emergence": "natural",
+    "layer": "reality",
+    "sanskrit": "दलित",
+    "figure": "",
+    "moniker": "⟦The Dalits:JTI:43f1ed⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "ambedkar",
+    "name": "B.R. Ambedkar",
+    "epithet": "the architect & the breaker",
+    "emergence": "spiritual",
+    "layer": "reality",
+    "sanskrit": "आम्बेडकर",
+    "figure": "B.R. Ambedkar · 1891–1956 · real historical person",
+    "moniker": "⟦B.R. Ambedkar:JTI:e8dfa1⟧",
+    "kind": "figure"
+  },
+  {
+    "slug": "endogamy",
+    "name": "Endogamy",
+    "epithet": "the engine · marriage within",
+    "emergence": "electrical",
+    "layer": "reality",
+    "sanskrit": "अंतर्विवाह",
+    "figure": "",
+    "moniker": "⟦Endogamy:JTI:f0f050⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "steppe",
+    "name": "The Steppe Migration",
+    "epithet": "the contested origin · the DNA",
+    "emergence": "natural",
+    "layer": "reality",
+    "sanskrit": "—",
+    "figure": "",
+    "moniker": "⟦The Steppe Migration:JTI:256df1⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "census",
+    "name": "The Colonial Census",
+    "epithet": "the hardening · counted & frozen",
+    "emergence": "electrical",
+    "layer": "reality",
+    "sanskrit": "—",
+    "figure": "",
+    "moniker": "⟦The Colonial Census:JTI:337c0f⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "article17",
+    "name": "Article 17 · the Constitution",
+    "epithet": "the abolition in law",
+    "emergence": "electrical",
+    "layer": "reality",
+    "sanskrit": "अनुच्छेद १७",
+    "figure": "",
+    "moniker": "⟦Article 17 · the Constitution:JTI:3eebfa⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "reservations",
+    "name": "Reservations",
+    "epithet": "the redress · and the entrenchment",
+    "emergence": "electrical",
+    "layer": "reality",
+    "sanskrit": "आरक्षण",
+    "figure": "",
+    "moniker": "⟦Reservations:JTI:22e1f8⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "bhakti",
+    "name": "The Bhakti Refusal",
+    "epithet": "the saints who said no",
+    "emergence": "spiritual",
+    "layer": "reality",
+    "sanskrit": "भक्ति",
+    "figure": "",
+    "moniker": "⟦The Bhakti Refusal:JTI:28b8b9⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "scavenging",
+    "name": "Manual Scavenging",
+    "epithet": "the reality, today · named plainly",
+    "emergence": "natural",
+    "layer": "reality",
+    "sanskrit": "—",
+    "figure": "",
+    "moniker": "⟦Manual Scavenging:JTI:2ddd76⟧",
+    "kind": "concept"
+  },
+  {
+    "slug": "politics",
+    "name": "The Political Caste",
+    "epithet": "caste as vote-bank & identity",
+    "emergence": "electrical",
+    "layer": "reality",
+    "sanskrit": "राजनीति",
+    "figure": "",
+    "moniker": "⟦The Political Caste:JTI:8373f4⟧",
+    "kind": "concept"
+  }
+]
