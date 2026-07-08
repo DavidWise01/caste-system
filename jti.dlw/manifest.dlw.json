@@ -9,5 +9,12 @@
   "seal": "Varna is the hymn; jati is the life. The law abolished it in 1950; marriage, money, and politics renew it every generation. Two layers, honestly told.",
   "seal_sha256": "abdad9df98154a1d9866ab1b3575d180511cd093f57e0672821158daaa22a789",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 591,
+    "prev": "7ed7f447d54f8357674d280bdb609c706cd73ae1bc1192c064981f05377769ff",
+    "link": "ee720cc014e66167d2522454ce1ffb6ed422acfcd486a61b60bb7e64a628c898",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
