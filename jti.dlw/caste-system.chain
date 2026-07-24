@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 591
 slug  : caste-system
 seal  : abdad9df98154a1d9866ab1b3575d180511cd093f57e0672821158daaa22a789
-prev  : 7ed7f447d54f8357674d280bdb609c706cd73ae1bc1192c064981f05377769ff
-link  : ee720cc014e66167d2522454ce1ffb6ed422acfcd486a61b60bb7e64a628c898
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : ba3a0f96a721732156949739b44c874bba672070c558a78546fbf2546586d9c3
+link  : 76443645431244c2ed495cfa9326c9ee1a84207baed37e2e106bd79e3058a81d
+head  : f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
